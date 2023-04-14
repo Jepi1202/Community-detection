@@ -1,4 +1,6 @@
-# Work done for the course on stochastic processes at ULiege
+# MCMC method
+
+Work done for the course on stochastic processes at ULiege
 
 ### Note: 
 39.3 / 42.0
